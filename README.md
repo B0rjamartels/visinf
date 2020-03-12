@@ -6,5 +6,5 @@
 
 [Bitacora y Guias de Trabajo: Visualizacion de la Informacion](https://docs.google.com/document/d/1q4WhXb4wvaeEKdKoQvuYfz6J1Gepe_CBTem6ZeYiK4c/edit?ts=5e5d02e6)
 
-[Trabajo Practico 1] 
+[Trabajo Practico 1](./TP1.pwb) 
 
