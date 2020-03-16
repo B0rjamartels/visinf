@@ -6,6 +6,6 @@
 
 [Bitacora y Guias de Trabajo: Visualizacion de la Informacion](https://docs.google.com/document/d/1q4WhXb4wvaeEKdKoQvuYfz6J1Gepe_CBTem6ZeYiK4c/edit?ts=5e5d02e6)
 
-[Trabajo Practico 1](https://prod-useast-a.online.tableau.com/t/borjamartels/views/TP/SleepingHours?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link)
+[Trabajo Practico 1](https://public.tableau.com/profile/borja.martel.seward#!/vizhome/SleepingHours/SleepingHours)
 
-[Trabajo Practico 2](https://prod-useast-a.online.tableau.com/t/borjamartels/views/ViolenceAgainstWomen/Argues?:origin=card_share_link&:embed=n)
+[Trabajo Practico 2](https://public.tableau.com/profile/borja.martel.seward#!/vizhome/ViolenceAgainstWomen_15843229183900/Story1?publish=yes≈)
