@@ -11,3 +11,8 @@
 [Trabajo Practico 2](https://public.tableau.com/profile/borja.martel.seward#!/vizhome/ViolenceAgainstWomen_15843229183900/Story1?publish=yes≈)
 
 [Trabajo Practico 3](https://public.tableau.com/profile/borja.martel.seward#!/vizhome/GDPvsHappiness_15851459570450/ByAxis?publish=yes)
+
+[Trabajo Practico 4](https://public.flourish.studio/visualisation/1909707/)
+
+[Trabajo Practico 5](https://public.tableau.com/profile/borja.martel.seward#!/vizhome/UnpaidWork_15867432654210/Dashboard1)
+
