@@ -16,3 +16,5 @@
 
 [Trabajo Practico 5](https://public.tableau.com/profile/borja.martel.seward#!/vizhome/UnpaidWork_15867432654210/Dashboard1)
 
+[Trabajo Practico 6](https://preview.flourish.studio/2005320/HqkE6pf8S-Cag6-J2_oDPyZuHOlOEYoZGD8tHT-zZpvmD3RzWqduk4_uKfRiXAgn/)
+
