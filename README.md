@@ -20,4 +20,4 @@
 
 [Trabajo Practico Datos Personales Parte I](https://public.tableau.com/profile/borja.martel.seward#!/vizhome/TpPersonalParteI/Story1?publish=yes)
 
-[Trabajo Practico Datos Personales Parte II] (https://public.tableau.com/profile/borja.martel.seward#!/vizhome/TPDatosPersonalesParteII/Sheet1?publish=yes)
+[Trabajo Practico Datos Personales Parte II](https://public.tableau.com/profile/borja.martel.seward#!/vizhome/TPDatosPersonalesParteII/Sheet1?publish=yes)
