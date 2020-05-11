@@ -18,3 +18,6 @@
 
 [Trabajo Practico 6](https://preview.flourish.studio/2005320/HqkE6pf8S-Cag6-J2_oDPyZuHOlOEYoZGD8tHT-zZpvmD3RzWqduk4_uKfRiXAgn/)
 
+[Trabajo Practico Datos Personales Parte I](https://public.tableau.com/profile/borja.martel.seward#!/vizhome/TpPersonalParteI/Story1?publish=yes)
+
+[Trabajo Practico Datos Personales Parte II](https://public.tableau.com/profile/borja.martel.seward#!/vizhome/TPDatosPersonalesParteII/Sheet1?publish=yes)
